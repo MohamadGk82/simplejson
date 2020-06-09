@@ -63,6 +63,18 @@
                "imageUrl":"https://golsarmusic.ir/wp-content/uploads/2020/05/Sohrab-MG-400x400.jpg"
             }
          ]
+      },
+      {
+         "title":"Discover Music",
+         "type":"DISCOVER",
+         "data":[
+            {
+               "imageUrl":"https://cdn.britannica.com/24/189624-131-BAF1184D/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg"
+            },
+            {
+               "imageUrl":"https://cdn.britannica.com/24/189624-131-BAF1184D/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg"
+            }
+         ]
       }
    ]
 }
