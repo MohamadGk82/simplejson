@@ -37,6 +37,32 @@
                "imageUrl":"https://golsarmusic.ir/wp-content/uploads/2020/05/Sohrab-MG-400x400.jpg"
             }
          ]
+      },
+       {
+         "title":"Coming Soon Tracks",
+         "type":"MUSICS",
+         "data":[
+            {
+               "name":"Tangi Nafas",
+               "artist":"Shayea",
+               "imageUrl":"https://www.topseda.ir/wp-content/uploads/2018/03/Overdose-2-Various-Artists.jpg"
+            },
+            {
+               "name":"Bitab",
+               "artist":"Mehrad Hidden",
+               "imageUrl":"https://www.my98music.com/wp-content/uploads/2015/02/Bozorg-Cover.jpg"
+            },
+            {
+               "name":"Sefareshi",
+               "artist":"Yas",
+               "imageUrl":"https://www.shirazsong.in/wp-content/uploads/photo_2019-02-18_12-12-30.jpg"
+            },
+            {
+               "name":"Mama",
+               "artist":"Sohrab Mj Ft Merzhak",
+               "imageUrl":"https://golsarmusic.ir/wp-content/uploads/2020/05/Sohrab-MG-400x400.jpg"
+            }
+         ]
       }
    ]
 }
