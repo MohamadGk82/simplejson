@@ -1,8 +1,7 @@
 {
-   "category":[
+   "buy":[
       {
-         "title":"Discover Music",
-         "type":"DISCOVER",
+         "type":"SLIDER",
          "data":[
             {
                "imageUrl":"https://cdn.britannica.com/24/189624-131-BAF1184D/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg"
@@ -13,66 +12,95 @@
          ]
       },
       {
-         "title":"Recently played",
-         "type":"MUSICS",
+         "title":"دستمال جادویی پاندا",
+         "type":"PRODUCT",
          "data":[
             {
-               "name":"Tangi Nafas",
-               "artist":"Shayea",
-               "imageUrl":"https://www.topseda.ir/wp-content/uploads/2018/03/Overdose-2-Various-Artists.jpg"
-            },
-            {
-               "name":"Bitab",
-               "artist":"Mehrad Hidden",
-               "imageUrl":"https://www.my98music.com/wp-content/uploads/2015/02/Bozorg-Cover.jpg"
-            },
-            {
-               "name":"Sefareshi",
-               "artist":"Yas",
-               "imageUrl":"https://www.shirazsong.in/wp-content/uploads/photo_2019-02-18_12-12-30.jpg"
-            },
-            {
-               "name":"Mama",
-               "artist":"Sohrab Mj Ft Merzhak",
-               "imageUrl":"https://golsarmusic.ir/wp-content/uploads/2020/05/Sohrab-MG-400x400.jpg"
-            }
-         ]
-      },
-       {
-         "title":"Coming Soon Tracks",
-         "type":"MUSICS",
-         "data":[
-            {
-               "name":"Tangi Nafas",
-               "artist":"Shayea",
-               "imageUrl":"https://www.topseda.ir/wp-content/uploads/2018/03/Overdose-2-Various-Artists.jpg"
-            },
-            {
-               "name":"Bitab",
-               "artist":"Mehrad Hidden",
-               "imageUrl":"https://www.my98music.com/wp-content/uploads/2015/02/Bozorg-Cover.jpg"
-            },
-            {
-               "name":"Sefareshi",
-               "artist":"Yas",
-               "imageUrl":"https://www.shirazsong.in/wp-content/uploads/photo_2019-02-18_12-12-30.jpg"
-            },
-            {
-               "name":"Mama",
-               "artist":"Sohrab Mj Ft Merzhak",
-               "imageUrl":"https://golsarmusic.ir/wp-content/uploads/2020/05/Sohrab-MG-400x400.jpg"
+               "color":"زرد"
             }
          ]
       },
       {
-         "title":"Discover Music",
-         "type":"DISCOVER",
+         "title":"فروشنده",
+         "type":"SELLER",
          "data":[
             {
-               "imageUrl":"https://cdn.britannica.com/24/189624-131-BAF1184D/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg"
+               "info":"اینجاست آ",
+               "caption":"عملکرد فروشنده 10 از 10"
             },
             {
-               "imageUrl":"https://cdn.britannica.com/24/189624-131-BAF1184D/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg"
+               "info":"گارانتی اصالت و سلامت فیزیکی کالا"
+            },
+            {
+               "info":"آماده ارسال"
+            },
+            {
+               "info":"بهترین قیمت 30 روز گذشته"
+            }
+         ]
+      },
+      {
+         "title":"با خرید این محصول شما",
+         "type":"SCORE",
+         "data":[
+            {
+               "info":"3 امتیاز در دیجی کلاب دریافت میکنید"
+            }
+         ]
+      },
+      {
+         "title":"ویژگی های محصول",
+         "type":"ATTRIBUTE",
+         "data":[
+            {
+               "info":"جنس",
+               "atrr":"حوله ای"
+            },
+            {
+               "info":"مشخصات فنی"
+            }
+         ]
+      },
+      {
+         "type":"CATEGORY",
+         "data":[
+            {
+               "name":"دستمال نظافت"
+            },
+            {
+               "name":"حوله و دستمال آشپزخانه"
+            },
+            {
+               "name":"ََآشپزخانه"
+            },
+            {
+               "name":"خانه و آشپزخانه"
+            }
+         ]
+      },
+      {
+         "title":"نظرات کاربران",
+         "type":"COMMENT",
+         "data":[
+            {
+               "title":"کیفیتش عالیه",
+               "offer":"خرید این محصول را پیشنهاد میکنم",
+               "comment":"واقعا نسب به انچه انتظار داشتم بهتر بود"
+            },
+            {
+               "title":"کیفیتش عالیه",
+               "offer":"خرید این محصول را پیشنهاد میکنم",
+               "comment":"واقعا نسب به انچه انتظار داشتم بهتر بود"
+            },
+            {
+               "title":"کیفیتش عالیه",
+               "offer":"خرید این محصول را پیشنهاد میکنم",
+               "comment":"واقعا نسب به انچه انتظار داشتم بهتر بود"
+            },
+            {
+               "title":"کیفیتش عالیه",
+               "offer":"خرید این محصول را پیشنهاد میکنم",
+               "comment":"واقعا نسب به انچه انتظار داشتم بهتر بود"
             }
          ]
       }
