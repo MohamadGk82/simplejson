@@ -1,2 +1,2 @@
-# Practice-App
-this app is a training project. include : Retrofit , nested recyclerView and multiType  , Media player Service and ...
+# Simple json
+a simple json for an shop application
